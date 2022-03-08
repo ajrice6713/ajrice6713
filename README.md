@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/ajrice6713/">
+    <img alt="Years Badge" src="https://badges.pufler.dev/years/ajrice6713?style=flat&logo=GitHub&labelColor=0F7D63&color=0F7D63">
+  </a>
+  <a href="https://www.linkedin.com/in/ajrice6713/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+</p>
+
+<br>
+<p align="center">
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ajrice6713&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&custom_title=Github Stats">
+</p>
