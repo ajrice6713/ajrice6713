@@ -14,8 +14,3 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about automating SDK and API docs generation
 - ⚡ Fun fact: I'm restoring a 1977 Jeep Cherokee S in my spare time! Follow the build [here](https://instagram.com/yona_cherokee)
-
-<br>
-<p align="center">
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ajrice6713&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&custom_title=Github Stats">
-</p>
