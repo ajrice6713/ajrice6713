@@ -11,6 +11,6 @@
 
 
 - 🔭 I’m currently working on improving developer experience, docs, and sdks at [Bandwidth](https://github.com/Bandwidth/)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning about API Gateways 🦍
 - 💬 Ask me about automating SDK and API docs generation
 - ⚡ Fun fact: I'm restoring a 1977 Jeep Cherokee S in my spare time! Follow the build [here](https://instagram.com/yona_cherokee)
