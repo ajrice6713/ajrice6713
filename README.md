@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on improving developer experience, docs, and sdks at [Bandwidth](https://github.com/Bandwidth/)
-- 🌱 I’m currently learning about API Gateways 🦍
+- 🔭 I’m currently working on improving Softrware Infrastructure at [Bandwidth](https://github.com/Bandwidth/)
+- 🌱 I’m currently learning GoLang and AWS to build distributed systems
 - 💬 Ask me about automating SDK and API docs generation
 - ⚡ Fun fact: I'm restoring a 1977 Jeep Cherokee S in my spare time! Follow the build [here](https://instagram.com/yona_cherokee)
